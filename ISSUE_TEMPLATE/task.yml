@@ -1,0 +1,62 @@
+name: "🔧 Task / Tech Debt"
+description: Internal task, refactor, or tech debt item
+labels: ["task"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for internal tasks, refactors, cleanups, and non-user-facing improvements.
+
+  - type: input
+    id: summary
+    attributes:
+      label: Task Summary
+      description: A short description of the task
+      placeholder: e.g. "Refactor auth module to use new SDK"
+    validations:
+      required: true
+
+  - type: textarea
+    id: background
+    attributes:
+      label: Background / Context
+      description: Why does this task need to be done?
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope of Work
+      description: What files, modules, or systems are affected?
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      description: How will we know this task is complete?
+      placeholder: |
+        - [ ] ...
+        - [ ] ...
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Task Type
+      options:
+        - Refactor
+        - Tech Debt
+        - Cleanup
+        - Infrastructure
+        - Documentation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Any other context, links, or references.
