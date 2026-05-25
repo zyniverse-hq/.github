@@ -4,7 +4,7 @@
 [![Claude Skills Registry](https://img.shields.io/badge/Claude_Skills-Registry_Live-2D1B69?style=flat-square&logo=github)](https://zyniverse-hq.github.io/skills-registry/website/)
 [![Made in Bengaluru](https://img.shields.io/badge/Made_in-Bengaluru_🇮🇳-FF6B35?style=flat-square)](https://zysk.tech)
 
-TThe open-source and AI products arm of [Zysk Technologies](https://zysk.tech) Bengaluru — building open-source Claude skills, AI agents, and developer tools that turn complex business problems into working software.
+The open-source and AI products arm of [Zysk Technologies](https://zysk.tech) Bengaluru — building open-source Claude skills, AI agents, and developer tools that turn complex business problems into working software.
 
 We build production-grade AI agents, Claude skills, and developer tools that turn complex business problems into working software.
 
