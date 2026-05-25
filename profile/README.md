@@ -4,7 +4,7 @@
 [![Claude Skills Registry](https://img.shields.io/badge/Claude_Skills-Registry_Live-2D1B69?style=flat-square&logo=github)](https://zyniverse-hq.github.io/skills-registry/website/)
 [![Made in Bengaluru](https://img.shields.io/badge/Made_in-Bengaluru_🇮🇳-FF6B35?style=flat-square)](https://zysk.tech)
 
-The open-source and AI products arm of [Zysk Technologies](https://zysk.tech) Bengaluru — building open-source Claude skills, AI agents, and developer tools that turn complex business problems into working software.
+Zyniverse HQ is the open-source engineering organisation of [Zysk Technologies](https://zysk.tech), Bengaluru — building Claude skills, AI agents, and developer tools that turn complex business problems into working software.
 
 Everything in this org is built by engineers who use these tools daily. **If it's here, it ships.**
 
@@ -60,18 +60,24 @@ Read the full guide → [CONTRIBUTING.md](https://github.com/zyniverse-hq/.githu
 
 ---
 
-## 🏢 About Zysk Technologies
+[Zysk Technologies](https://zysk.tech) is a Bengaluru-based enterprise software company — 
+over a decade in the making, ~65 engineers strong. Clients include Meesho, Darwinbox, and Gojek.
 
-Zysk Technologies is a Bengaluru-based software company — over a decade of experience. Clients include Meesho, Darwinbox, Enventure and Gojek.
+**Zyniverse** is the open-source and AI products identity of **Zyni Innovations Private Limited** 
+— the product-focused spin-off of Zysk Technologies. Zyniverse is where the team ships things 
+under their own name: open-source tools, Claude skills, and AI-native products built from 
+Bengaluru for the world.
 
-Zyniverse is our open-source and AI products identity — where we ship things under our own name.
+**Quick Links**
 
 | | |
 |---|---|
-| 🌐 | [zysk.tech](https://zysk.tech) |
-| 🏢 | [Zyni Innovations Private Limited](https://github.com/zyni-ai) |
-| 🏗️ | [skills-registry](https://github.com/zyniverse-hq/skills-registry) |
-| 📩 | [contact@zysk.tech](mailto:contact@zysk.tech) |
+| 📍 Location | Bengaluru, Karnataka, India |
+| 🏗️ Parent company | [Zysk Technologies](https://zysk.tech) — software services company, est. 2015 |
+| 🏢 Zyni Innovations Private Limited | [Zyni Innovations Private Limited](http://github.com/zyni-ai) 
+| 🤖 Flagship product | [TestMySkills](https://testmyskills.ai/) — Skill Assessment and Skill Mastery |
+| 🛠️ Built with | Claude (Anthropic) · LangGraph · Next.js · Laravel · PostgreSQL |
+| 🌐 Skills Registry | [zyniverse-hq.github.io/skills-registry/website](https://zyniverse-hq.github.io/skills-registry/website/) |
 
 ---
 
