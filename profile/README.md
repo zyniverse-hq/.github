@@ -2,7 +2,7 @@
 
 The open-source and AI products arm of [Zysk Technologies](https://zysk.tech) — 11 years of enterprise software, now shipping under our own name.
 
-We build production-grade AI agents, Claude skills, and developer tools that solve real problems in assessment, hiring, and engineering practice.
+We build production-grade AI agents, Claude skills, and developer tools that turn complex business problems into working software.
 
 Everything in this org is built by engineers who use these tools daily. **If it's here, it ships.**
 
@@ -75,6 +75,6 @@ Zyniverse is our open-source and AI products identity — where we ship things u
 
 <div align="center">
 
-**Skills that ship. Built by builders.**
+**The future of work runs on Zyniverse.**
 
 </div>
