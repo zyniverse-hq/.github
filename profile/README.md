@@ -4,7 +4,7 @@
 [![Claude Skills Registry](https://img.shields.io/badge/Claude_Skills-Registry_Live-2D1B69?style=flat-square&logo=github)](https://zyniverse-hq.github.io/skills-registry/website/)
 [![Made in Bengaluru](https://img.shields.io/badge/Made_in-Bengaluru_🇮🇳-FF6B35?style=flat-square)](https://zysk.tech)
 
-The open-source and AI products arm of [Zysk Technologies](https://zysk.tech) — 11 years of enterprise software, now shipping under our own name.
+TThe open-source and AI products arm of [Zysk Technologies](https://zysk.tech) Bengaluru — building open-source Claude skills, AI agents, and developer tools that turn complex business problems into working software.
 
 We build production-grade AI agents, Claude skills, and developer tools that turn complex business problems into working software.
 
@@ -64,7 +64,7 @@ Read the full guide → [CONTRIBUTING.md](https://github.com/zyniverse-hq/.githu
 
 ## 🏢 About Zysk Technologies
 
-Zysk Technologies is a Bengaluru-based software company with over a decade of engineering experience. Clients include Meesho, Darwinbox, and Gojek.
+Zysk Technologies is a Bengaluru-based software company — over a decade of experience. Clients include Meesho, Darwinbox, Enventure and Gojek.
 
 Zyniverse is our open-source and AI products identity — where we ship things under our own name.
 
