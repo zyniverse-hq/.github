@@ -6,8 +6,6 @@
 
 The open-source and AI products arm of [Zysk Technologies](https://zysk.tech) Bengaluru — building open-source Claude skills, AI agents, and developer tools that turn complex business problems into working software.
 
-We build production-grade AI agents, Claude skills, and developer tools that turn complex business problems into working software.
-
 Everything in this org is built by engineers who use these tools daily. **If it's here, it ships.**
 
 ---
