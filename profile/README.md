@@ -67,9 +67,9 @@ Zyniverse is our open-source and AI products identity — where we ship things u
 | | |
 |---|---|
 | 🌐 | [zysk.tech](https://zysk.tech) |
-| 🤖 | [testmyskills.ai](https://testmyskills.ai) |
+| 🏢 | [Zyni Innovations Private Limited](https://github.com/zyni-ai) |
 | 🏗️ | [skills-registry](https://github.com/zyniverse-hq/skills-registry) |
-| 📩 | [hello@zysk.tech](mailto:hello@zysk.tech) |
+| 📩 | [contact@zysk.tech](mailto:contact@zysk.tech) |
 
 ---
 
