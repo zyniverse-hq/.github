@@ -60,7 +60,7 @@ Read the full guide → [CONTRIBUTING.md](https://github.com/zyniverse-hq/.githu
 
 ## 🏢 About Zysk Technologies
 
-Zysk Technologies is a Bengaluru-based enterprise software services company with 11 years and ~65 engineers. Clients include Meesho, Darwinbox, and Gojek.
+Zysk Technologies is a Bengaluru-based software company with over a decade of engineering experience. Clients include Meesho, Darwinbox, and Gojek.
 
 Zyniverse is our open-source and AI products identity — where we ship things under our own name.
 
